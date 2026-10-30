@@ -2,3 +2,5 @@ A collection of lightweight Windows scripts for developers and power users to si
 
 IF you want to use windows features really fast wtihout relying on windows API (Which the recommended) 
 You can point the action to run one of these .vbs scripts 
+
+It Contains Both simple and advanced scripts for your Apps !
