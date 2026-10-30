@@ -4,3 +4,6 @@ IF you want to use windows features really fast wtihout relying on windows API (
 You can point the action to run one of these .vbs scripts 
 
 It Contains Both simple and advanced scripts for your Apps !
+
+Each Advanced Script includes usage guide with in the .vbs file itself
+The simple scripts are direct runnable scripts
