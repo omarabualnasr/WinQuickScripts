@@ -1,1 +1,0 @@
-CreateObject("WScript.Shell").SendKeys "^{ESC}"
