@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "rundll32.exe user32.dll,LockWorkStation"
