@@ -1,9 +1,9 @@
-A collection of lightweight Windows scripts for developers and power users to simplify system operations, automate repetitive tasks, and create quick workflow shortcuts. Designed to make everyday tasks faster, easier, and more efficient.
+# WIN QUICK SCRIPTS
 
-IF you want to use windows features really fast wtihout relying on windows API (Which the recommended) 
-You can point the action to run one of these .vbs scripts 
+A collection of lightweight Windows scripts for developers and power users, designed to simplify system operations, automate repetitive tasks, and create quick workflow shortcuts.
 
-It Contains Both simple and advanced scripts for your Apps !
+Use Windows features and perform common actions quickly through standalone `.vbs` scripts, without relying on direct Windows API implementation.
 
-Each Advanced Script includes usage guide with in the .vbs file itself
-The simple scripts are direct runnable scripts
+The repository includes both simple, ready-to-run scripts and more advanced scripts for application-specific tasks.
+
+Advanced scripts include usage instructions directly within the `.vbs` file, while simple scripts are ready to execute.
